@@ -13,9 +13,10 @@
 - [x] change avatar
 - [x] change bio
 - [x] save token in file
-- [ ] randomDelayWrite
 - [x] getProxyRandom
 - [x] joinMultipleServer
+- [ ] randomDelayWrite
+- [ ] Fix error Params
 
 Voilà un petit script pour plein de compte discord gratuitement et sans api ou autre.
 
