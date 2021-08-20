@@ -99,10 +99,6 @@ export default class Navigator {
 
         await this.wait(this.windowDelay);
 
-        this.page.on('request', req => {
-            req.
-        })
-
         this.logger.info(Data.message.getInfoAccount);
         this.account = await this.getInfoAccount();
         this.logger.success(`Account info: [ Name: ${this.account.name}, Email: ${this.account.email}, Password: ${this.account.password} ]`);
