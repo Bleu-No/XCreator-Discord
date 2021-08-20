@@ -19,7 +19,7 @@
 
 Voilà un petit script pour plein de compte discord gratuitement et sans api ou autre.
 
-Ce script a été codé en **TypeScript**, du coup si vous voulez l'utiser, vous allez devoir soit le build en **JavaScript** ou l'éxecuter avec une petite ligne
+Ce script a été codé en **TypeScript**, du coup si vous voulez l'utiliser, vous allez devoir soit le build en **JavaScript** ou l'éxecuter avec une petite ligne
 
 <h1>Pour le lancer</h1>
 
