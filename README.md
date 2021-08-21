@@ -25,7 +25,7 @@ Ce script a été codé en **TypeScript**, du coup si vous voulez l'utiliser, vo
 <h1>Pour installer  les modules</h1>
 Si vous avez installé **Yarn**
 ```
-yarn
+yarn (sans rien ;) )
 ```
 
 Avec **Npm**
