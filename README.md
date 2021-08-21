@@ -23,9 +23,10 @@ Voilà un petit script pour créer pleins  de compte discord gratuitement et san
 Ce script a été codé en **TypeScript**, du coup si vous voulez l'utiliser, vous allez d'abord devoir installer tous les modules puis de build en **JavaScript** ou de l'éxecuter avec une petite ligne
 
 <h1>Pour installer  les modules</h1>
+
 Si vous avez installé **Yarn**
 ```
-yarn (sans rien ;) )
+yarn
 ```
 
 Avec **Npm**
